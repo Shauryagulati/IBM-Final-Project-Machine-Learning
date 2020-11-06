@@ -16,3 +16,8 @@ final results:
 Please read the note book for information about the data and implementation of classifiers used.
 
 *Please note that results may be improved by engineering new features or using different hyper parameters ,I have tried just to create a simple prediction only for demonstrating use of different classifiers from scikit learn library .*
+
+
+Also, if the file doesn't open or gives error while loading:
+1. Open "https://nbviewer.jupyter.org/ 
+2. And Paste the Link of the File and it can be viewed without any error.
